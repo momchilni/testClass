@@ -25,7 +25,7 @@ int arr[][] = {
         {1, 0, 1, 0, 0, 0, 1, 0}
         };
 
-
+int z;
    /* public void insert(){
     Scanner input = new Scanner(System.in);  
         System.out.println("Въведете число от 0 до 7: ");
